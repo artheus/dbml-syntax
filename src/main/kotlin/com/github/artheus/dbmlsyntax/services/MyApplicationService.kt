@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.artheus.dbmlsyntax.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.artheus.dbmlsyntax.MyBundle
 
 class MyApplicationService {
 
